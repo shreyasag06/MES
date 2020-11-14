@@ -1,2 +1,2 @@
-# Medical-Expert-System
+Medical Expert System
 Disease dagnosis by using symptoms
