@@ -1,2 +1,2 @@
-# MES
-MEDICAL EXPERT SYSTEM
+# Medical-Expert-System
+Disease dagnosis by using symptoms
